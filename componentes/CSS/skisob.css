@@ -1,0 +1,55 @@
+.skisob{
+    background: #000317;
+    width: 100%;
+    height: 1600px;
+    flex-shrink: 0;
+}
+.distance {
+    padding-top: 40px;
+    padding-left: 200px;
+}
+.distaboutl {
+    float: left;
+    padding-left: 120px;
+}
+.distaboutr {
+    float: right;
+    padding-right: 120px;
+}
+.titles {
+    padding-left: 56px;
+    color: #28CAB8;
+    font-size: 60px;
+    font-weight: 400;
+    width: 500px;
+    height: 51px;
+    flex-shrink: 0;
+}
+.aboutcont {
+    padding-top: 20px;
+    color: #FFF;
+    font-size: 45px;
+    font-weight: 400;
+    width: 554px;
+    height: 320px;
+}
+.titleskills {
+    padding-bottom: 100px;
+    padding-top: 560px;
+    padding-left: 43%;
+    color: #28CAB8;
+    font-size: 60px;
+    width: 170px;
+    height: 51px;
+    flex-shrink: 0;
+}
+.imgskills {
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+.destaque {
+    padding-left: 60px;
+    color: #FFF;
+    font-size: 60px;
+    letter-spacing: 1.5px;
+}

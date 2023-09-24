@@ -1,0 +1,14 @@
+@import"./componentes/CSS/navbar.css";
+@import"./componentes/CSS/end.css";
+@import"./componentes/CSS/mid.css";
+@import"./componentes/CSS/skisob.css";
+@import"./componentes/CSS/projetos.css";
+
+body{
+    background-color: #cad2d4;
+}
+*{
+    scroll-behavior: smooth;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #000;
+}

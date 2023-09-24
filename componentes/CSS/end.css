@@ -1,0 +1,29 @@
+footer {
+    width: 100%;
+    height: 400px;
+}
+.divcontaimg {
+    padding-left: 700px;
+    display: flex;
+    width: 442px;
+    height: 131px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 25px;
+    flex-shrink: 0;
+}
+.contaimg {
+    width: 102px;
+    height: 102px;
+    flex-shrink: 0;
+}
+.conctact {
+    font-size: 40px;
+    text-align: center;
+    flex-shrink: 0;
+}
+.direitos {
+    font-size: 20px;
+    text-align: center;
+    flex-shrink: 0;
+}
