@@ -1,5 +1,5 @@
 # LandingPage
-Landing Page criada para avaliação do primeiro bimestre de DesenvolvimentoWeb FATEC 
+Landing Page criada para avaliação do primeiro bimestre de DesenvolvimentoWeb FATEC | A segunda página é a aba de Projetos
 
 ## 🚀 Começando
 
