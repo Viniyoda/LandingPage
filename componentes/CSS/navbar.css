@@ -1,28 +1,36 @@
 nav{
     background: var(--tree-color);
     position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
     top: 0;
     left: 0;
     width: 100%;
-    height: auto;
 }
 .navatalho:hover{
     color: var(--one-color);
-    font-size: 25px;
+    font-size: 160%;
 }
 .navatalho{
     text-decoration: none;
     color: var(--two-color);
-    padding: 30px 40px;
-    font-size: 20px;
+    font-size: 140%;
 }
 ul{
+    display: inline;
     position: absolute;
     right: 12%;
-    display: inline-flex;
 }
 .logo{
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 10%;
+    width: 10%;
+}
+@media only screen and (max-width: 992px) {
+    .navatalho {
+        padding: 10px 10px;
+    }
 }
