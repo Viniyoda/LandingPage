@@ -2,26 +2,26 @@ nav{
     background: var(--tree-color);
     position: fixed;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    flex-direction: row;
     top: 0;
     left: 0;
     width: 100%;
 }
 .navatalho:hover{
     color: var(--one-color);
-    font-size: 160%;
+    font-size: 220%;
 }
 .navatalho{
     text-decoration: none;
     color: var(--two-color);
-    font-size: 140%;
+    font-size: 200%;
+    padding: 8px;
 }
 ul{
     display: inline;
     position: absolute;
-    right: 12%;
+    justify-content: space-between;
+    right: 20%;
 }
 .logo{
     margin-top: 10px;
@@ -29,6 +29,7 @@ ul{
     margin-left: 10%;
     width: 10%;
 }
+
 @media only screen and (max-width: 992px) {
     .navatalho {
         padding: 10px 10px;
